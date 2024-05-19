@@ -1,0 +1,41 @@
+service model in cloud computing 
+SaaS--already made service, just use the service 
+PaaS--A place we run application 
+IaaS-provide infrastructure such as virtual machine, storage
+type of cloud--private , public and hybrid
+AWS is the most powerful cloud providers, other include azure, GCP, IBM cloud, terremark
+AWS are very powerful, highly scalable, storage, flexible, cost effective, security, automation 
+aws architexture-various region across the world and multiple data centre in  individual region
+aws domains-
+  compute 
+  migration- snowball, moving data physically 
+  security and compliance
+  storage-s3 bucket, cloudfront, Glacier 
+  networking- VPC
+  Messahe-AWS usher
+  Database- Aurara, Dynamodb
+  management tools-cloudwatch
+Instance is a virtual machine, a tiny part of a larger computer, which has it own h/drive,
+  network connection, OS
+EC2-elastic cloud compute
+  highly scalable
+  efficient
+  flexible
+  type of instances
+    compute instances
+    memory instances 
+    storage instances 
+    GPU instances--graphics 
+  instance billing models
+    on-demand-- as needed 
+    dedicated-- personalized
+    on-spot-- volatile
+    reserved --- as it state 
+  instance base general purpose 
+    burstable instance 
+    EBS optimized 
+    Cluster networking
+    dedicated
+
+
+
